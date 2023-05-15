@@ -11,6 +11,19 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/Ryanv3710/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Ryanv3710/azure-network-protocols)
 
+
+
+
+<h2>📄 Certifications:</h2>
+
+  <ul>
+  <li>Network+ (currrently pursuing)</li>
+  <li>Security+ (currently pursuing)</li>
+  </ul>
+
+
+
+
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Ryan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -22,3 +35,6 @@
 [instagram]: https://www.instagram.com/legendary_ace12/
 [linkedin]: https://www.linkedin.com/in/ryan-ventura37/
 [youtube]: https://www.youtube.com/@thecomeup37
+
+
+
