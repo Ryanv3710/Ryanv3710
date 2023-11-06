@@ -14,12 +14,7 @@
 
 
 
-<h2>📄 Certifications:</h2>
 
-  <ul>
-  <li>Network+ (currrently pursuing)</li>
-  <li>Security+ (currently pursuing)</li>
-  </ul>
 
 
 
