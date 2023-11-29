@@ -9,7 +9,7 @@
 
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/Ryanv3710/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Ryanv3710/azure-network-protocols)
+  - [Diagnosing DNS](https://github.com/Ryanv3710/azure-network-protocols)
 
 
 
